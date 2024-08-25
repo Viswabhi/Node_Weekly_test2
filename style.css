@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  canvas {
+    margin: 20px auto;
+    display: block;
+    max-width: 90%;
+  }
+  
